@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "McCalcTools"
-version = "0.4.0"
+version = "0.4.1"
 description = "Minecraft utility calculations for blocks, chunks, and more"
 authors = [{name = "Buildercgr", email = "buildercgr@outlook.com"}]
 readme = "README.md"
